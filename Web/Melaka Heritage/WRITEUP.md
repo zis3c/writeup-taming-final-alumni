@@ -33,7 +33,7 @@ curl -s -H "x-middleware-subrequest: middleware:middleware:middleware:middleware
 
 ## Proof
 
-![Admin Panel showing the flag](flag_proof.png)
+![Admin Panel showing the flag](/home/zisec/Downloads/writeup-taming-final-alumni/Web/Melaka Heritage/flag_proof.png)
 
 ## Flag
 ```
